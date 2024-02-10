@@ -1,7 +1,6 @@
 {
   "name": "polls",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/http/server.ts"
@@ -16,6 +15,10 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "fastify": "^4.26.0"
-  }
+    "@prisma/client": "^5.9.1",
+    "fastify": "^4.26.0",
+    "ts-node": "^10.9.2",
+    "zod": "^3.22.4"
+  },
+  "description": ""
 }
