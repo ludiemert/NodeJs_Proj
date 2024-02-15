@@ -1,4 +1,3 @@
-Modelo README PROJETOS GITHUB
 <h1 align="center"> 💻 NLW Expert - Node.js</h1>
 
 <br>
@@ -49,13 +48,13 @@ Test the endpoints as per the examples below, where `server_base_url` is the sam
 <div align="center">
  <img src="./src/img/Proj_VSCode.png" width="400px" alt="Home Image"/>
 </div>
----
+
 
 <h2 align="center"> 💻 Project Docker</h2>
 <div align="center">
  <img src="./src/img/Docker.png" width="400px" alt="Home Image"/>
 </div>
----
+
 
 <h2 align="center"> 💻 Project BD_Prisma_Studio</h2>
 <div align="center">
@@ -146,6 +145,15 @@ npx prisma studio
 - [Node](https://nodejs.org/)
 - [MYSQL_Workbench]( https://www.mysql.com/products/workbench/)
 
+---
+
+#### Comments 😃
+
+During the event, I gained a comprehensive understanding of the fundamental concepts of websockets and their application in real scenarios. 
+In addition, I gained knowledge about integrating Redis as a caching solution, optimizing the vote count
+in polls and improving the system's operational efficiency.
+
+---
 
 #### 📝 Licença
 
@@ -155,7 +163,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 #### ✒️ Authors
 
- *  * **Rocketseat**
+**Rocketseat**
 
 - #### My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-LucianaDiemert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianadiemert/)](https://www.linkedin.com/in/lucianadiemert/)
 
